@@ -3,7 +3,11 @@ package tb16;
 public class demo {
 	public void mi()
 	{
-	   System.out.println("welcome....cjc");	
+	   System.out.println("welcome....cjc");
+			   System.out.println("welcome....cjc23");
+
+		
+		
 	}
 	public void m2()
 	{
